@@ -1,0 +1,6 @@
+{
+  "name": "Citystone Medical Center — Hospital & HMS",
+  "description": "Complete full-stack multi-specialty hospital website and Hospital Management System with Patient, Doctor, Receptionist, and Admin portals, PostgreSQL database, appointment scheduling, laboratory, pharmacy, and billing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
